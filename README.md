@@ -1,19 +1,19 @@
-# Osclass Profile Picture plugin
+# Osclass Video Embed plugin
 
 ### OVERVIEW
-With this plugin, your users can add profile pictures either on registration or their dashboard.
-Profile pictures can be cropped, rotated and resized using cropper.js.
-Admin can change a user profile picture when editing the user.
-Admin can set a default profile picture, size (in pixels) and quality (0-100) of uploaded pictures.
-Profile pictures are shown in the users' table in administration.
+With this plugin, your users can add Youtube and Vimeo video URLs when posting an item.
+On the item page, video is shown in a responsive player (plyr.io) that supports full screen and many other features.
+Admin can choose in which categories they want the field to appear.
 
 ### INSTALLATION
 Two options:
-- a) Download zip GitHub - click on "Clone or Downlaod" - "Download zip" - open file - upload "zo_profilepic" to oc-content/plugins.
-- b) Download zip from Market - https://market.osclasscommunity.com/index.php?page=item&id=21 - import in oc-admin.
+- a) Download zip GitHub - click on "Clone or Downlaod" - "Download zip" - open file - upload "zo_videoembed" to oc-content/plugins.
+- b) Download zip from Market - https://market.osclasscommunity.com/index.php?page=item&id=31 - import in oc-admin.
 
-### HELP
-Check the help page for documentation on helpers (for showing profile picture).
+### REQUIRED FIELD
+To make video URL field required, open zo_videoembed/index.php and change "define('VIDEOEMBED_REQUIRED', false);" to "define('VIDEOEMBED_REQUIRED', true);".
 
 ### TRANSLATION
 .pot translation template is provided. Translate using POedit or similar software.
+
+![Video Embed](https://raw.githubusercontent.com/webmods-croatia/oscplugin-videoembed/master/banner.jpg)
