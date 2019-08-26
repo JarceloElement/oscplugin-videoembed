@@ -7,7 +7,7 @@ Admin can choose in which categories they want the field to appear.
 
 ### INSTALLATION
 Two options:
-- a) Download zip GitHub - click on "Clone or Downlaod" - "Download zip" - open file - upload "zo_videoembed" to oc-content/plugins.
+- a) Download zip from GitHub - click on releases tab - download latest zip - import in oc-admin.
 - b) Download zip from Market - https://market.osclasscommunity.com/index.php?page=item&id=31 - import in oc-admin.
 
 ### REQUIRED FIELD
