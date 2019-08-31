@@ -1,5 +1,7 @@
 # Osclass Video Embed plugin
 
+![Video Embed Cover Image](https://raw.githubusercontent.com/webmods-croatia/oscplugin-videoembed/master/cover.jpg)
+
 ### OVERVIEW
 With this plugin, your users can add Youtube and Vimeo video URLs when posting an item.
 On the item page, video is shown in a responsive player (plyr.io) that supports full screen and many other features.
@@ -16,4 +18,6 @@ To make video URL field required, open zo_videoembed/index.php and change "defin
 ### TRANSLATION
 .pot translation template is provided. Translate using POedit or similar software.
 
-![Video Embed](https://raw.githubusercontent.com/webmods-croatia/oscplugin-videoembed/master/banner.jpg)
+### SCREENSHOTS
+![Item Post Page](https://raw.githubusercontent.com/webmods-croatia/oscplugin-videoembed/master/item%20post.jpg)
+![Item Detail Page](https://raw.githubusercontent.com/webmods-croatia/oscplugin-videoembed/master/item%20detail.jpg)
